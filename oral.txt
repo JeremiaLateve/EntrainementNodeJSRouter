@@ -1,0 +1,13 @@
+dotenv
+express
+mongoose
+morgan
+slugify
+bcrypt
+validator
+nodemailer
+pug
+stripe
+
+respectez l'ordre phase de créations 
+ point du front : accessibilité, ergonomié, référencement, responsive
